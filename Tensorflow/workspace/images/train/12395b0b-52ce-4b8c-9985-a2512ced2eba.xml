@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>12395b0b-52ce-4b8c-9985-a2512ced2eba.jpg</filename>
+	<path>/Users/lucasargento/Development/Microcontroladores-UTN/TPFinal/Tensorflow/workspace/images/collectedimages/All/12395b0b-52ce-4b8c-9985-a2512ced2eba.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cerrado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>554</xmin>
+			<ymin>386</ymin>
+			<xmax>836</xmax>
+			<ymax>624</ymax>
+		</bndbox>
+	</object>
+</annotation>

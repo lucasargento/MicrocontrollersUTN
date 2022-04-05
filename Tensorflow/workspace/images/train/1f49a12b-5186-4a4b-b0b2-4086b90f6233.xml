@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>1f49a12b-5186-4a4b-b0b2-4086b90f6233.jpg</filename>
+	<path>/Users/lucasargento/Development/Microcontroladores-UTN/TPFinal/Tensorflow/workspace/images/collectedimages/All/1f49a12b-5186-4a4b-b0b2-4086b90f6233.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pulgar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>720</xmin>
+			<ymin>104</ymin>
+			<xmax>1105</xmax>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+</annotation>

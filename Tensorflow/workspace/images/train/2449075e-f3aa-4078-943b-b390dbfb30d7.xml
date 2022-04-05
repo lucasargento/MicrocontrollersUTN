@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>2449075e-f3aa-4078-943b-b390dbfb30d7.jpg</filename>
+	<path>/Users/lucasargento/Development/Microcontroladores-UTN/TPFinal/Tensorflow/workspace/images/collectedimages/All/2449075e-f3aa-4078-943b-b390dbfb30d7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anular</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>359</xmin>
+			<ymin>162</ymin>
+			<xmax>582</xmax>
+			<ymax>510</ymax>
+		</bndbox>
+	</object>
+</annotation>

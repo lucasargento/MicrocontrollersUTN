@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>ca368705-e58a-4d5f-b26b-9863ece654c1.jpg</filename>
+	<path>/Users/lucasargento/Development/Microcontroladores-UTN/TPFinal/Tensorflow/workspace/images/collectedimages/All/ca368705-e58a-4d5f-b26b-9863ece654c1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mayor</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>320</xmin>
+			<ymin>187</ymin>
+			<xmax>578</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+</annotation>

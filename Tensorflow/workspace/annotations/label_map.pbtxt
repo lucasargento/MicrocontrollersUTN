@@ -1,0 +1,28 @@
+item { 
+	name:'pulgar'
+	id:1
+}
+item { 
+	name:'indice'
+	id:2
+}
+item { 
+	name:'mayor'
+	id:3
+}
+item { 
+	name:'anular'
+	id:4
+}
+item { 
+	name:'menique'
+	id:5
+}
+item { 
+	name:'abierto'
+	id:6
+}
+item { 
+	name:'cerrado'
+	id:7
+}

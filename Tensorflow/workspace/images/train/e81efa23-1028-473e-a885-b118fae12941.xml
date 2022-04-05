@@ -1,0 +1,26 @@
+<annotation>
+	<folder>All</folder>
+	<filename>e81efa23-1028-473e-a885-b118fae12941.jpg</filename>
+	<path>/Users/lucasargento/Development/Microcontroladores-UTN/TPFinal/Tensorflow/workspace/images/collectedimages/All/e81efa23-1028-473e-a885-b118fae12941.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>menique</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>845</xmin>
+			<ymin>209</ymin>
+			<xmax>1098</xmax>
+			<ymax>557</ymax>
+		</bndbox>
+	</object>
+</annotation>
